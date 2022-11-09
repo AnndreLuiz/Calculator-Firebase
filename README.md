@@ -1,15 +1,13 @@
 # calculator_app
 
-A new Flutter project.
+Calculadora
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![app calculadora](https://user-images.githubusercontent.com/108832512/200912659-6bb848c8-6e98-4e02-8ef2-8c6f7c8ef522.png)
 
 
-firebase analytics, database realtime, push notification, crashlytics
+Push notification
+
+![push notification](https://user-images.githubusercontent.com/108832512/200912805-9d879607-7917-4c73-aac6-42fd5c59dda3.png)
+
+
+
